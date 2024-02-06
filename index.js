@@ -12,7 +12,7 @@ const data = {
     "Aug",
     "Sep",
     "Oct",
-    "Nov",
+    "Nov"
   ],
   datasets: [
     {
